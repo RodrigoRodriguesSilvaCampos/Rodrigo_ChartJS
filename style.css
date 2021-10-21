@@ -5,10 +5,10 @@
 }
 
 .dash-container {
-  display: flex; /* por padrão, possui o 'flex-direction: row' (linha), e alinha os elementos filhos, distribuindo de maneira equivalente */
+  display: flex; 
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap; /* serve para 'agarrar' os elementos filhos, de maneira que quebra de linha se os elementos filhos 'transbordarem' deste elemento */
+  flex-wrap: wrap; 
   text-align: center;
 }
 
