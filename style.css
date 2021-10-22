@@ -25,9 +25,9 @@
 
 /* Header */
 .header {
-  background-color: #232323;
+  background-color: #361e1e;
   height: 70px;
-  border-bottom: 3px solid #2196f3;
+  border-bottom: 3px solid #33f321;
   margin-bottom: 15px;
 }
 
@@ -38,7 +38,7 @@
 }
 
 .header .container .highlight {
-  color: #2196f3;
+  color: #4bf321;
 }
 
 .header h1 {
